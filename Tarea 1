@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mayor sueño de Daniel </title>
+    <style>
+        /* Estilos CSS pueden ir aquí */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #F9EBC7;
+        }
+        header, footer {
+            background-color: #783D19;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+        nav {
+            background-color: #5F6F52;
+            color: #fff;
+            padding: 10px;
+            text-align: center;
+        }
+        nav a {
+            color: #fff;
+            text-decoration: none;
+            margin: 0 10px;
+        }
+        section {
+            padding: 20px;
+            margin: 20px;
+            background-color: #FEFAE0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Estudiante ICG: Daniel Chicaeme Sánchez</h1>
+    </header>
+
+  <h2>Fontibón</h2>
+      <img src="https://i.ibb.co/72QFkrX/Casamaps.png" alt="Casa maps">
+  </div>
+  <div>
+      <h2>Conjunto Residencial Parques de Atahualpa </h2>
+      <img src="https://imganuncios.mitula.net/apartamento_en_venta_fontibon_8500010667502525625.jpg" alt="Descripción de la segunda imagen">
+  </div>
+  
+    <nav>
+        <a href="#">Inicio</a>
+        <a href="#">Acerca de</a>
+        <a href="#">Contacto</a>
+    </nav>
+    <section>
+        <h2>Perfil</h2>
+        <p>Mi nombre es Daniel Ernesto Chicaeme Sánchez, nacido el 20 de Noviembre de 1997 en la ciudad de Bogotá, Colombia. Actualmente tengo 26 años y estoy estudiando en la Universidad Distrital Francisco José de Caldas, estoy en el cuarto semestre de la carrera de Ingeniería Catastral y Geodesia. </p>
+    </section>
+
+  <section>
+      <h2>Mayor Deseo de Daniel Chicaeme</h2>
+      <p>Mi mayor deseo es ser Ingeniero Catastral y Geodesta, para brindar un servicio de calidad y confiabilidad a los clientes. Mi objetivo principal es aportar a la sociedad el valor de la tecnología y la innovación, y estoy comprometido a seguir aprendiendo y creciendo en los campos de la geodesia particularmente. </p>
+  </section>
+    <footer>
+        <p>Derechos de autor &copy; 2024 Mi Página Web</p>
+    </footer>
+</body>
+</html>
